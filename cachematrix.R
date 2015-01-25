@@ -3,7 +3,7 @@
 ##This function will get the matrix to be inversed and will set the value of m 
 ## variable to null.This m value when passed to the cacheSolve function will 
 ##indicated cacheSolve to calculate inverse of matrix.cacheSolve will then set 
-#inverse of matrix in variable m.This will ensure that on subsequent calls
+#inverse of matrix in variable m. This will ensure that on subsequent calls
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
